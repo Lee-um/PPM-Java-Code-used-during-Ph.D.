@@ -29,7 +29,7 @@ DATE: The paper which was published based on data from this code was published i
 
 USER INSTRUCTIONS: 
 
-Running the main method in the PPMStar class file will show how a specific string is compressed by PPM Star.
+Running the main method in the main class file will show how a specific string is compressed by PPM Star.
 
 The string compressed is: 
 
